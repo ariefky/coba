@@ -162,7 +162,7 @@ new TypeIt("#teks2", {
 
 new TypeIt("#trims", {
   strings: ["I Love You dan Terimakasih."],
-  startDelay: 2000,
+  startDelay: 2500,
   speed: 100,
   loop: false,
   waitUntilVisible: true,
